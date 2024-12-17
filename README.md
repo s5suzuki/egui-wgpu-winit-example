@@ -1,4 +1,4 @@
-# `egui`, `wgpu` and `winit` example without `efarme`
+# `egui`, `wgpu` and `winit` example without `eframe`
 
 # Author
 
